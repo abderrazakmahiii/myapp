@@ -1,0 +1,24 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "Backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abderrazakmahiii/myapp.git"
+  },
+  "keywords": [
+    "express",
+    "node.js",
+    "web-server"
+  ],
+  "author": "Abderrazak Mahi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abderrazakmahiii/myapp/issues"
+  },
+  "homepage": "https://github.com/abderrazakmahiii/myapp#readme"
+}
